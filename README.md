@@ -14,9 +14,11 @@ Download the selected file, and unzip the contents wherever you'd like. Then, un
 
 ## **File Directory**
 Click a banner to quickly download any of the packs or files listed below!
+
+***IMPORTANT: All files are +0.009 sync by default.***
 ### **Packs**
-<a href=""><img width="406" src="https://i.imgur.com/wyYU4MP.png" alt="Omega Dimension"></a>
-<a href=""><img width="406" src="https://i.imgur.com/SyZtSip.png" alt="Xronial Xyzygy"></a>
+<a href="https://github.com/aemx/itg-releases/raw/main/packs/Omega%20Dimension.zip"><img width="406" src="https://i.imgur.com/wyYU4MP.png" alt="Omega Dimension"></a>
+<a href="https://github.com/aemx/itg-releases/raw/main/packs/Xronial%20Xyzygy.zip"><img width="406" src="https://i.imgur.com/SyZtSip.png" alt="Xronial Xyzygy"></a>
 
 ## **Opening Issues**
-To request a bugfix or change within a file, please [open an issue](https://github.com/aemx/mod-releases/issues/new). I'll do my best to fix them whenever possible! You are also welcome to message me on [Discord](https://discord.com/) at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
+To request a bugfix or change within a file, please [open an issue](https://github.com/aemx/itg-releases/issues/new). I'll do my best to fix them whenever possible! There is an appropriate tag for each pack, so please use them appropriately along with the other tags! You are also welcome to message me on [Discord](https://discord.com/) at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
